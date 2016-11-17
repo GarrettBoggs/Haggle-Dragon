@@ -35,7 +35,6 @@
         android:layout_below="@+id/mainTitle"
         android:layout_centerHorizontal="true"
         android:background="@drawable/fire"
-        a
         />
 
 
